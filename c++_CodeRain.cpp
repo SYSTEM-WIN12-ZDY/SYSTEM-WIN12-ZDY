@@ -1,4 +1,4 @@
-//使用Dev C++编译
+//Please use DevC++ debug this file!
 #include<iostream>
 #include<windows.h>
 #include<time.h>
